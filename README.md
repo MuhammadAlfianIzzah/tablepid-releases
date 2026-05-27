@@ -124,7 +124,7 @@ Dark, Light, Ocean, Forest, Sunset, Purple, Sakura, Candy, Unicorn, Lavender.
 
 **Latest Release: v0.1.0**
 
-[⬇️ Download TablePID v0.1.0](https://github.com/tablepid/tablepid/releases/latest)
+[⬇️ Download TablePID v0.1.0](https://github.com/MuhammadAlfianIzzah/tablepid-releases/releases/latest)
 
 - Windows 10/11 (64-bit)
 - ~15 MB installer
