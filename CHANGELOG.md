@@ -6,6 +6,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [1.0.0] - 2026-06-15
+
+### Added
+- (tambahkan fitur baru)
+
+### Fixed
+- (tambahkan bug fix)
+
 ## [0.2.91] - 2026-06-11
 
 ### Added
@@ -64,6 +72,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ---
 
+## [1.0.0] - 2026-06-15
+
+### Added
+- (tambahkan fitur baru)
+
+### Fixed
+- (tambahkan bug fix)
+
 ## [0.2.91] - 2026-06-11
 
 ### Added
@@ -100,6 +116,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Linux support
 
 ---
+
+## [1.0.0] - 2026-06-15
+
+### Added
+- (tambahkan fitur baru)
+
+### Fixed
+- (tambahkan bug fix)
 
 ## [0.2.91] - 2026-06-11
 
